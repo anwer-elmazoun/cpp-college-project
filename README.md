@@ -67,4 +67,4 @@ More projects will be added to this repository as I continue learning and develo
 
 ---
 
-**Author:** Anwar Mahmoud
+**Author:** Anwar Elmazoun
