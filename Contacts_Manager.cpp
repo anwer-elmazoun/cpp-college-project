@@ -1,5 +1,5 @@
 #include <iostream>
-#include "contactmanager2.h"
+#include "contactmanager.h"
 using namespace std;
 
 int main()
